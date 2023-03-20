@@ -2,7 +2,8 @@
   <div>
     <default-header />
     <Nuxt />
-    <!-- Modal -->
+    <!-- Modal Create or Edit -->
+    <!-- TODO -->
     <v-modal v-slot="payload" name="DeckFormModal">
       <div class="modal-body">
         <h2>
